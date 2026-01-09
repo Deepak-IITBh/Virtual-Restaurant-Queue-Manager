@@ -251,7 +251,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ##  Contact & Support
 
-- **Email:** info@royalqueen.com
+- **Email:** deepakde@iitbhilai.ac.in
 - **Location:** Near Hostel 1 IIT, Bhilai, Raipur
 - **Phone:** +91 9760843775
 
