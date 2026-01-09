@@ -2,7 +2,7 @@
 
 A modern, intelligent queue management system that eliminates physical waiting times in restaurants. Customers can browse menus, place orders, and track preparation in real-time while enjoying a seamless dining experience.
 
-**Live Demo:** [https://virtual-restaurant-queue-manager.onrender.com/home](https://virtual-restaurant-queue-manager.onrender.com/home)
+**Live Demo:** [https://virtual-restaurant-queue-manager.onrender.com/](https://virtual-restaurant-queue-manager.onrender.com/)
 
 ---
 
