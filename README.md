@@ -9,7 +9,6 @@ A modern, intelligent queue management system that eliminates physical waiting t
 ##  Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
@@ -57,64 +56,7 @@ A modern, intelligent queue management system that eliminates physical waiting t
 
 ---
 
-##  Project Structure
 
-\\
-Virtual Restaurant Queue Manager/
-
- Frontend/                          # React.js application
-    public/                        # Static assets
-    src/
-       components/                # Reusable components
-          Navbar.jsx             # Navigation bar
-          Hero.jsx               # Hero section with menu
-          Footer.jsx             # Footer component
-          CardProduct.jsx        # Product card component
-          Categories.jsx         # Category filter
-          Modal.jsx              # Modal dialogs
-       pages/                     # Page components
-          Homepage.jsx           # Landing page
-          Cart.jsx               # Shopping cart
-          Profile.jsx            # User profile
-          ProjectPage.jsx        # Project showcase
-       App.js                     # Main app component
-       index.js                   # Entry point
-    package.json                   # Dependencies
-    tailwind.config.js              # Tailwind configuration
-
- Backend/                           # Go backend application
-    main.go                        # Application entry point
-    go.mod                         # Go module definition
-    database/
-       databaseConnection.go      # MongoDB connection
-    models/                        # Data models
-       userModel.go
-       foodModel.go
-       menuModel.go
-       orderModel.go
-       tableModel.go
-       invoiceModel.go
-    controllers/                   # Request handlers
-       userController.go
-       foodController.go
-       menuController.go
-       orderController.go
-       invoiceController.go
-    routes/                        # API routes
-       userRouter.go
-       foodRouter.go
-       menuRouter.go
-       orderRouter.go
-       invoiceRouter.go
-    middleware/                    # Authentication middleware
-       authMiddleware.go
-    helpers/                       # Helper functions
-        tokenHelper.go
-
- .gitignore                         # Git ignore rules
-\\
-
----
 
 ##  Installation
 
